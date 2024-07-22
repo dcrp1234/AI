@@ -34,7 +34,7 @@ The first project focuses on classifying images as either cats or dogs using mac
 The second project involves identifying diseases in tomato leaves using machine learning techniques.
 
 ### Dataset
-- Used a dataset containing images of tomato leaves affected by various diseases.
+- Used a dataset containing images of tomato leaves affected by various diseases.[https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf](url)
 
 ### Approach
 
