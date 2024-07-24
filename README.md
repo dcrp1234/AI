@@ -51,8 +51,8 @@ The second project involves identifying diseases in tomato leaves using machine 
 ### Results
 
 - Achieved an overall accuracy of 90% on the test set for disease classification.
-
-
+[https://www.kaggle.com/code/claradcruze/tomato-leaf-disease-detection?scriptVersionId=189537028
+](url)
 ## Conclusion
 
 In summary, both projects successfully demonstrate the application of machine learning for image classification tasks. The first project showcased the importance of regularization techniques like Batch Normalization and Dropout in improving model performance and reducing overfitting. The second project highlighted the effectiveness of CNNs in classifying complex image data such as tomato leaf diseases.
