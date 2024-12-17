@@ -8,8 +8,8 @@ Open a virtual environment and download packages like
 - jupyter
 
 Open a virtual environment
-  python3 -m venv venv
-  source ~/venv/bin/activate
+    python3 -m venv venv
+  > source ~/venv/bin/activate
 
 then install necessary libraries
   pip install streamlit
